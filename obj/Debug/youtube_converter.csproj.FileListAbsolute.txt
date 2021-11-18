@@ -1,0 +1,14 @@
+E:\youtube_Converter\youtube_converter\bin\Debug\youtube_converter.exe.config
+E:\youtube_Converter\youtube_converter\bin\Debug\youtube_converter.exe
+E:\youtube_Converter\youtube_converter\bin\Debug\youtube_converter.pdb
+E:\youtube_Converter\youtube_converter\bin\Debug\AltoHttp.dll
+E:\youtube_Converter\youtube_converter\bin\Debug\Newtonsoft.Json.dll
+E:\youtube_Converter\youtube_converter\bin\Debug\Newtonsoft.Json.xml
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.csprojAssemblyReference.cache
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.Form1.resources
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.Properties.Resources.resources
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.csproj.GenerateResource.cache
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.csproj.CoreCompileInputs.cache
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.csproj.CopyComplete
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.exe
+E:\youtube_Converter\youtube_converter\obj\Debug\youtube_converter.pdb
